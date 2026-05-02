@@ -4,6 +4,9 @@
 
 Themes for [eza](https://github.com/eza-community/eza).
 
+This fork adds scripts for setting the theme, and for generating a "devblackops"
+theme from Terminal-Icons in PowerShell.
+
 </div>
 
 

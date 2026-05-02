@@ -1,0 +1,481 @@
+# eza theme.yml — generated from Terminal-Icons devblackops theme
+# Terminal-Icons version: 0.11.0
+# Run Generate-EzaTheme.ps1 to regenerate
+
+extensions:
+  7z: {icon: {glyph: ""}, filename: {foreground: "#DAA520"}}
+  aac: {icon: {glyph: ""}, filename: {foreground: "#DB7093"}}
+  accdb: {icon: {glyph: ""}, filename: {foreground: "#FFD700"}}
+  aiff: {icon: {glyph: ""}, filename: {foreground: "#DB7093"}}
+  ami: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  applescript: {icon: {glyph: ""}, filename: {foreground: "#4682B4"}}
+  appx: {icon: {glyph: "󰏖"}, filename: {foreground: "#FFC77A"}}
+  AppxBundle: {icon: {glyph: "󰏖"}, filename: {foreground: "#FFC77A"}}
+  apx: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  asc: {icon: {glyph: ""}, filename: {foreground: "#66CDAA"}}
+  asp: {icon: {glyph: ""}, filename: {foreground: "#CD5C5C"}}
+  ass: {icon: {glyph: ""}, filename: {foreground: "#C50000"}}
+  auto.tfvars: {icon: {glyph: ""}, filename: {foreground: "#948EEC"}}
+  auto.tfvars.json: {icon: {glyph: ""}}
+  avi: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  bat: {icon: {glyph: ""}, filename: {foreground: "#008000"}}
+  bicep: {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  bmap: {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  bmp: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  bpg: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  br: {icon: {glyph: ""}, filename: {foreground: "#DAA520"}}
+  brk: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  brotli: {icon: {glyph: ""}, filename: {foreground: "#DAA520"}}
+  bz: {icon: {glyph: ""}, filename: {foreground: "#DAA520"}}
+  bzip2: {icon: {glyph: ""}, filename: {foreground: "#DAA520"}}
+  c: {icon: {glyph: "󰙱"}, filename: {foreground: "#A9A9A9"}}
+  cer: {icon: {glyph: ""}, filename: {foreground: "#FF6347"}}
+  cert: {icon: {glyph: ""}, filename: {foreground: "#FF6347"}}
+  cfg: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  chm: {icon: {glyph: "󰞋"}, filename: {foreground: "#87CEEB"}}
+  clixml: {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  clj: {icon: {glyph: ""}, filename: {foreground: "#00FF7F"}}
+  cljc: {icon: {glyph: ""}, filename: {foreground: "#00FF7F"}}
+  cljs: {icon: {glyph: ""}, filename: {foreground: "#00FF7F"}}
+  cmd: {icon: {glyph: ""}, filename: {foreground: "#008000"}}
+  code-workplace: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  code-workspace: {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  conf: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  config: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  cpp: {icon: {glyph: "󰙲"}, filename: {foreground: "#A9A9A9"}}
+  crt: {icon: {glyph: ""}, filename: {foreground: "#FF6347"}}
+  cs: {icon: {glyph: "󰌛"}, filename: {foreground: "#7B68EE"}}
+  csproj: {icon: {glyph: ""}, filename: {foreground: "#EE82EE"}}
+  css: {icon: {glyph: ""}, filename: {foreground: "#87CEFA"}}
+  csv: {icon: {glyph: "󰈛"}, filename: {foreground: "#9ACD32"}}
+  csx: {icon: {glyph: "󰌛"}, filename: {foreground: "#7B68EE"}}
+  cur: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  dart: {icon: {glyph: ""}, filename: {foreground: "#4682B4"}}
+  dds: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  deb: {icon: {glyph: "󰏖"}, filename: {foreground: "#FFC77A"}}
+  dlc: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  dll: {icon: {glyph: ""}, filename: {foreground: "#87CEEB"}}
+  dng: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  doc: {icon: {glyph: "󰈬"}, filename: {foreground: "#00BFFF"}}
+  dockerfile: {icon: {glyph: ""}, filename: {foreground: "#4682B4"}}
+  dockerignore: {icon: {glyph: ""}, filename: {foreground: "#4682B4"}}
+  docx: {icon: {glyph: "󰈬"}, filename: {foreground: "#00BFFF"}}
+  dtd: {icon: {glyph: "󰗀"}, filename: {foreground: "#98FB98"}}
+  eex: {icon: {glyph: ""}, filename: {foreground: "#8B4513"}}
+  elm: {icon: {glyph: ""}, filename: {foreground: "#9932CC"}}
+  eot: {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  epp: {icon: {glyph: ""}, filename: {foreground: "#FFA61A"}}
+  eps: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  erb: {icon: {glyph: ""}, filename: {foreground: "#FF0000"}}
+  erl: {icon: {glyph: ""}, filename: {foreground: "#FF6347"}}
+  esx: {icon: {glyph: ""}, filename: {foreground: "#F0E68C"}}
+  ex: {icon: {glyph: ""}, filename: {foreground: "#8B4513"}}
+  exe: {icon: {glyph: "󰣆"}, filename: {foreground: "#00FA9A"}}
+  exr: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  exs: {icon: {glyph: ""}, filename: {foreground: "#8B4513"}}
+  flac: {icon: {glyph: ""}, filename: {foreground: "#DB7093"}}
+  flv: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  fnt: {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  font: {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  fonts: {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  fpx: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  fs: {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  fsi: {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  fsproj: {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  fsx: {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  gbr: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  gemfile: {icon: {glyph: ""}, filename: {foreground: "#FF0000"}}
+  gif: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  gifv: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  go: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  gpg: {icon: {glyph: ""}, filename: {foreground: "#66CDAA"}}
+  gradle: {icon: {glyph: "󰟆"}, filename: {foreground: "#39D52D"}}
+  groovy: {icon: {glyph: ""}, filename: {foreground: "#87CEFA"}}
+  gz: {icon: {glyph: ""}, filename: {foreground: "#DAA520"}}
+  gzip: {icon: {glyph: ""}, filename: {foreground: "#DAA520"}}
+  hbs: {icon: {glyph: ""}, filename: {foreground: "#E37933"}}
+  hs: {icon: {glyph: ""}, filename: {foreground: "#9932CC"}}
+  htm: {icon: {glyph: ""}, filename: {foreground: "#CD5C5C"}}
+  html: {icon: {glyph: ""}, filename: {foreground: "#CD5C5C"}}
+  html_vm: {icon: {glyph: ""}, filename: {foreground: "#CD5C5C"}}
+  ico: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  ics: {icon: {glyph: ""}, filename: {foreground: "#00CED1"}}
+  iLogicVb: {icon: {glyph: "󱂈"}, filename: {foreground: "#A63B22"}}
+  img: {icon: {glyph: ""}, filename: {foreground: "#E1E3E6"}}
+  iml: {icon: {glyph: "󰗀"}, filename: {foreground: "#98FB98"}}
+  ini: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  ipynb: {icon: {glyph: "󰠮"}, filename: {foreground: "#4B8BBE"}}
+  iso: {icon: {glyph: ""}, filename: {foreground: "#E1E3E6"}}
+  jar: {icon: {glyph: ""}, filename: {foreground: "#F89820"}}
+  java: {icon: {glyph: ""}, filename: {foreground: "#F89820"}}
+  jb2: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  jbig2: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  jl: {icon: {glyph: ""}, filename: {foreground: "#9259a3"}}
+  jng: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  jpeg: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  jpg: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  js: {icon: {glyph: ""}, filename: {foreground: "#F0E68C"}}
+  json: {icon: {glyph: ""}, filename: {foreground: "#FFD700"}}
+  jsx: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  jxr: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  key: {icon: {glyph: ""}, filename: {foreground: "#66CDAA"}}
+  leex: {icon: {glyph: ""}, filename: {foreground: "#8B4513"}}
+  less: {icon: {glyph: ""}, filename: {foreground: "#6B8E23"}}
+  lock: {icon: {glyph: ""}, filename: {foreground: "#DAA520"}}
+  log: {icon: {glyph: ""}, filename: {foreground: "#F0E68C"}}
+  lrc: {icon: {glyph: "󰈙"}, filename: {foreground: "#00CED1"}}
+  lua: {icon: {glyph: ""}, filename: {foreground: "#87CEFA"}}
+  m2v: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  m4a: {icon: {glyph: ""}, filename: {foreground: "#DB7093"}}
+  manifest: {icon: {glyph: "󰗀"}, filename: {foreground: "#98FB98"}}
+  markdown: {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  md: {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  mdb: {icon: {glyph: ""}, filename: {foreground: "#FFD700"}}
+  mjs: {icon: {glyph: ""}, filename: {foreground: "#F0E68C"}}
+  mkv: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  mov: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  mp2: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  mp3: {icon: {glyph: ""}, filename: {foreground: "#DB7093"}}
+  mp4: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  mpe: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  mpeg: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  mpg: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  mpv: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  mrg: {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  msi: {icon: {glyph: "󰏖"}, filename: {foreground: "#FFC77A"}}
+  msix: {icon: {glyph: "󰏖"}, filename: {foreground: "#FFC77A"}}
+  msixbundle: {icon: {glyph: "󰏖"}, filename: {foreground: "#FFC77A"}}
+  ntf: {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  odttf: {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  ogg: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  ogv: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  option: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  opus: {icon: {glyph: ""}, filename: {foreground: "#DB7093"}}
+  otf: {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  patch: {icon: {glyph: ""}, filename: {foreground: "#FF4500"}}
+  pbm: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  pdb: {icon: {glyph: ""}, filename: {foreground: "#FFD700"}}
+  pdf: {icon: {glyph: ""}, filename: {foreground: "#CD5C5C"}}
+  pem: {icon: {glyph: ""}, filename: {foreground: "#66CDAA"}}
+  pfx: {icon: {glyph: ""}, filename: {foreground: "#FF6347"}}
+  pgf: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  pgsql: {icon: {glyph: ""}, filename: {foreground: "#FFD700"}}
+  php: {icon: {glyph: ""}, filename: {foreground: "#6A5ACD"}}
+  pic: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  pkb: {icon: {glyph: ""}, filename: {foreground: "#FFD700"}}
+  pks: {icon: {glyph: ""}, filename: {foreground: "#FFD700"}}
+  pl: {icon: {glyph: ""}, filename: {foreground: "#8A2BE2"}}
+  plist: {icon: {glyph: "󰗀"}, filename: {foreground: "#98FB98"}}
+  png: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  postgres: {icon: {glyph: ""}, filename: {foreground: "#FFD700"}}
+  potm: {icon: {glyph: "󰈧"}, filename: {foreground: "#DC143C"}}
+  potx: {icon: {glyph: "󰈧"}, filename: {foreground: "#DC143C"}}
+  pp: {icon: {glyph: ""}, filename: {foreground: "#FFA61A"}}
+  ppa: {icon: {glyph: "󰈧"}, filename: {foreground: "#DC143C"}}
+  ppam: {icon: {glyph: "󰈧"}, filename: {foreground: "#DC143C"}}
+  pps: {icon: {glyph: "󰈧"}, filename: {foreground: "#DC143C"}}
+  ppsm: {icon: {glyph: "󰈧"}, filename: {foreground: "#DC143C"}}
+  ppsx: {icon: {glyph: "󰈧"}, filename: {foreground: "#DC143C"}}
+  ppt: {icon: {glyph: "󰈧"}, filename: {foreground: "#DC143C"}}
+  pptm: {icon: {glyph: "󰈧"}, filename: {foreground: "#DC143C"}}
+  pptx: {icon: {glyph: "󰈧"}, filename: {foreground: "#DC143C"}}
+  prefs: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  project: {icon: {glyph: "󰗀"}, filename: {foreground: "#98FB98"}}
+  prop: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  properties: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  props: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  ps1: {icon: {glyph: "󰞷"}, filename: {foreground: "#00BFFF"}}
+  ps1xml: {icon: {glyph: "󰞷"}, filename: {foreground: "#00BFFF"}}
+  psb: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  psc1: {icon: {glyph: "󰞷"}, filename: {foreground: "#00BFFF"}}
+  psd: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  psd1: {icon: {glyph: "󰞷"}, filename: {foreground: "#00BFFF"}}
+  psm1: {icon: {glyph: "󰞷"}, filename: {foreground: "#00BFFF"}}
+  psql: {icon: {glyph: ""}, filename: {foreground: "#FFD700"}}
+  pssc: {icon: {glyph: "󰞷"}, filename: {foreground: "#00BFFF"}}
+  pub: {icon: {glyph: ""}, filename: {foreground: "#66CDAA"}}
+  py: {icon: {glyph: ""}, filename: {foreground: "#4B8BBE"}}
+  qt: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  R: {icon: {glyph: "󰟔"}, filename: {foreground: "#276DC3"}}
+  rar: {icon: {glyph: ""}, filename: {foreground: "#DAA520"}}
+  raw: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  rb: {icon: {glyph: ""}, filename: {foreground: "#FF0000"}}
+  reg: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  resx: {icon: {glyph: "󰗀"}, filename: {foreground: "#98FB98"}}
+  rm: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  Rmd: {icon: {glyph: "󰟔"}, filename: {foreground: "#276DC3"}}
+  rmvb: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  rpm: {icon: {glyph: "󰏖"}, filename: {foreground: "#FFC77A"}}
+  Rproj: {icon: {glyph: "󰟔"}, filename: {foreground: "#276DC3"}}
+  rs: {icon: {glyph: ""}, filename: {foreground: "#FF4500"}}
+  rst: {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  rtf: {icon: {glyph: "󰈬"}, filename: {foreground: "#00BFFF"}}
+  ruleset: {icon: {glyph: ""}, filename: {foreground: "#EE82EE"}}
+  sass: {icon: {glyph: ""}, filename: {foreground: "#FF00FF"}}
+  sc: {icon: {glyph: ""}, filename: {foreground: "#DE3423"}}
+  scala: {icon: {glyph: ""}, filename: {foreground: "#DE3423"}}
+  scss: {icon: {glyph: ""}, filename: {foreground: "#FF00FF"}}
+  settings: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  sh: {icon: {glyph: ""}, filename: {foreground: "#FF4500"}}
+  sln: {icon: {glyph: ""}, filename: {foreground: "#EE82EE"}}
+  sln.dotsettings: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  sln.dotsettings.user: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  slnf: {icon: {glyph: ""}, filename: {foreground: "#EE82EE"}}
+  sql: {icon: {glyph: ""}, filename: {foreground: "#FFD700"}}
+  sqlite: {icon: {glyph: ""}, filename: {foreground: "#FFD700"}}
+  srt: {icon: {glyph: "󰈙"}, filename: {foreground: "#00CED1"}}
+  sublime-project: {icon: {glyph: ""}, filename: {foreground: "#F4A460"}}
+  sublime-workspace: {icon: {glyph: ""}, filename: {foreground: "#F4A460"}}
+  sui: {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  suit: {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  suo: {icon: {glyph: ""}, filename: {foreground: "#EE82EE"}}
+  svg: {icon: {glyph: "󰜡"}, filename: {foreground: "#F4A460"}}
+  tar: {icon: {glyph: ""}, filename: {foreground: "#DAA520"}}
+  tf: {icon: {glyph: ""}, filename: {foreground: "#948EEC"}}
+  tf.json: {icon: {glyph: ""}}
+  tfvars: {icon: {glyph: ""}, filename: {foreground: "#948EEC"}}
+  tfvars.json: {icon: {glyph: ""}}
+  tgz: {icon: {glyph: ""}, filename: {foreground: "#DAA520"}}
+  tif: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  tiff: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  tmLanguage: {icon: {glyph: "󰗀"}, filename: {foreground: "#98FB98"}}
+  toml: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  ts: {icon: {glyph: ""}, filename: {foreground: "#F0E68C"}}
+  tsbuildinfo: {icon: {glyph: ""}, filename: {foreground: "#FFD700"}}
+  tsv: {icon: {glyph: "󰈛"}, filename: {foreground: "#9ACD32"}}
+  tsx: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  ttc: {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  ttf: {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  txt: {icon: {glyph: "󰈙"}, filename: {foreground: "#00CED1"}}
+  user: {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  vb: {icon: {glyph: ""}, filename: {foreground: "#EE82EE"}}
+  vbs: {icon: {glyph: ""}, filename: {foreground: "#EE82EE"}}
+  vcxitems: {icon: {glyph: ""}, filename: {foreground: "#EE82EE"}}
+  vcxitems.filters: {icon: {glyph: ""}, filename: {foreground: "#EE82EE"}}
+  vcxproj: {icon: {glyph: ""}, filename: {foreground: "#EE82EE"}}
+  vhd: {icon: {glyph: "󰋊"}, filename: {foreground: "#E1E3E6"}}
+  vhdx: {icon: {glyph: "󰋊"}, filename: {foreground: "#E1E3E6"}}
+  vim: {icon: {glyph: ""}, filename: {foreground: "#019833"}}
+  vmdk: {icon: {glyph: "󰋊"}, filename: {foreground: "#E1E3E6"}}
+  vob: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  vscodeignore: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  vsix: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  vsixmanifest: {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  vsxproj.filters: {icon: {glyph: ""}, filename: {foreground: "#EE82EE"}}
+  vue: {icon: {glyph: "󰡄"}, filename: {foreground: "#20B2AA"}}
+  wav: {icon: {glyph: ""}, filename: {foreground: "#DB7093"}}
+  webm: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  webp: {icon: {glyph: ""}, filename: {foreground: "#20B2AA"}}
+  wma: {icon: {glyph: ""}, filename: {foreground: "#DB7093"}}
+  wmv: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  woff: {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  woff2: {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  xaml: {icon: {glyph: "󰙳"}, filename: {foreground: "#87CEFA"}}
+  xhtml: {icon: {glyph: ""}, filename: {foreground: "#CD5C5C"}}
+  xls: {icon: {glyph: "󰈛"}, filename: {foreground: "#9ACD32"}}
+  xlsx: {icon: {glyph: "󰈛"}, filename: {foreground: "#9ACD32"}}
+  xml: {icon: {glyph: "󰗀"}, filename: {foreground: "#98FB98"}}
+  xquery: {icon: {glyph: "󰗀"}, filename: {foreground: "#98FB98"}}
+  xsd: {icon: {glyph: "󰗀"}, filename: {foreground: "#98FB98"}}
+  xsl: {icon: {glyph: "󰗀"}, filename: {foreground: "#98FB98"}}
+  xslt: {icon: {glyph: "󰗀"}, filename: {foreground: "#98FB98"}}
+  xz: {icon: {glyph: ""}, filename: {foreground: "#DAA520"}}
+  yaml: {icon: {glyph: "󰉢"}, filename: {foreground: "#FF6347"}}
+  yml: {icon: {glyph: "󰉢"}, filename: {foreground: "#FF6347"}}
+  yuv: {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  zip: {icon: {glyph: ""}, filename: {foreground: "#DAA520"}}
+
+filenames:
+  ".azure-pipelines.yml": {icon: {glyph: "󰠅"}, filename: {foreground: "#00BFFF"}}
+  ".bowerrc": {icon: {glyph: ""}, filename: {foreground: "#CD5C5C"}}
+  ".buildignore": {icon: {glyph: ""}, filename: {foreground: "#87CEEB"}}
+  ".clang-format": {icon: {glyph: ""}, filename: {foreground: "#87CEEB"}}
+  ".clang-tidy": {icon: {glyph: ""}, filename: {foreground: "#87CEEB"}}
+  ".DS_Store": {icon: {glyph: ""}, filename: {foreground: "#696969"}}
+  ".esformatter": {icon: {glyph: ""}, filename: {foreground: "#F4A460"}}
+  ".esmrc": {icon: {glyph: ""}, filename: {foreground: "#6B8E23"}}
+  ".firebaserc": {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  ".gitattributes": {icon: {glyph: ""}, filename: {foreground: "#FF4500"}}
+  ".gitconfig": {icon: {glyph: ""}, filename: {foreground: "#FF4500"}}
+  ".gitignore": {icon: {glyph: ""}, filename: {foreground: "#FF4500"}}
+  ".gitkeep": {icon: {glyph: ""}, filename: {foreground: "#FF4500"}}
+  ".gitlab-ci.yml": {icon: {glyph: ""}, filename: {foreground: "#FF4500"}}
+  ".gitmodules": {icon: {glyph: ""}, filename: {foreground: "#FF4500"}}
+  ".htaccess": {icon: {glyph: "󰗀"}, filename: {foreground: "#9ACD32"}}
+  ".jenkinsfile": {icon: {glyph: ""}, filename: {foreground: "#6495ED"}}
+  ".jsbeautifyrc": {icon: {glyph: ""}, filename: {foreground: "#F4A460"}}
+  ".jscsrc": {icon: {glyph: ""}, filename: {foreground: "#F4A460"}}
+  ".jshintignore": {icon: {glyph: ""}, filename: {foreground: "#87CEEB"}}
+  ".jshintrc": {icon: {glyph: ""}, filename: {foreground: "#F4A460"}}
+  ".mrconfig": {icon: {glyph: ""}, filename: {foreground: "#87CEEB"}}
+  ".nmpignore": {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  ".npmrc": {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  ".nvmrc": {icon: {glyph: ""}, filename: {foreground: "#6B8E23"}}
+  ".terraform.lock.hcl": {icon: {glyph: ""}, filename: {foreground: "#948EEC"}}
+  ".travis.yml": {icon: {glyph: ""}, filename: {foreground: "#FFE4B5"}}
+  ".tsbuildinfo": {icon: {glyph: ""}, filename: {foreground: "#F4A460"}}
+  ".yardopts": {icon: {glyph: ""}, filename: {foreground: "#87CEEB"}}
+  "authors": {icon: {glyph: ""}, filename: {foreground: "#FF6347"}}
+  "authors.md": {icon: {glyph: ""}, filename: {foreground: "#FF6347"}}
+  "authors.txt": {icon: {glyph: ""}, filename: {foreground: "#FF6347"}}
+  "bitbucket-pipelines.yaml": {icon: {glyph: ""}, filename: {foreground: "#87CEFA"}}
+  "bitbucket-pipelines.yml": {icon: {glyph: ""}, filename: {foreground: "#87CEFA"}}
+  "bower.json": {icon: {glyph: ""}, filename: {foreground: "#CD5C5C"}}
+  "cdp.pid": {icon: {glyph: ""}, filename: {foreground: "#F4A460"}}
+  "CHANGELOG": {icon: {glyph: ""}, filename: {foreground: "#98FB98"}}
+  "CHANGELOG.md": {icon: {glyph: ""}, filename: {foreground: "#98FB98"}}
+  "CHANGELOG.txt": {icon: {glyph: ""}, filename: {foreground: "#98FB98"}}
+  "code_of_conduct.md": {icon: {glyph: ""}, filename: {foreground: "#FFFFE0"}}
+  "code_of_conduct.txt": {icon: {glyph: ""}, filename: {foreground: "#FFFFE0"}}
+  "composer.lock": {icon: {glyph: ""}, filename: {foreground: "#F4A460"}}
+  "docker-compose.ci.yml": {icon: {glyph: ""}, filename: {foreground: "#4682B4"}}
+  "docker-compose.dev.yml": {icon: {glyph: ""}, filename: {foreground: "#4682B4"}}
+  "docker-compose.local.yml": {icon: {glyph: ""}, filename: {foreground: "#4682B4"}}
+  "docker-compose.override.yml": {icon: {glyph: ""}, filename: {foreground: "#4682B4"}}
+  "docker-compose.prod.yml": {icon: {glyph: ""}, filename: {foreground: "#4682B4"}}
+  "docker-compose.production.yml": {icon: {glyph: ""}, filename: {foreground: "#4682B4"}}
+  "docker-compose.staging.yml": {icon: {glyph: ""}, filename: {foreground: "#4682B4"}}
+  "docker-compose.test.yml": {icon: {glyph: ""}, filename: {foreground: "#4682B4"}}
+  "docker-compose.yaml": {icon: {glyph: ""}, filename: {foreground: "#4682B4"}}
+  "docker-compose.yml": {icon: {glyph: ""}, filename: {foreground: "#4682B4"}}
+  "Dockerfile": {icon: {glyph: ""}, filename: {foreground: "#4682B4"}}
+  "favicon.ico": {icon: {glyph: ""}, filename: {foreground: "#FFD700"}}
+  "firebase.json": {icon: {glyph: ""}, filename: {foreground: "#FFA500"}}
+  "git-history": {icon: {glyph: ""}, filename: {foreground: "#FF4500"}}
+  "gradlew": {icon: {glyph: "󰟆"}, filename: {foreground: "#39D52D"}}
+  "gruntfile.js": {icon: {glyph: ""}, filename: {foreground: "#CD5C5C"}}
+  "gulpfile.babel.js": {icon: {glyph: ""}, filename: {foreground: "#CD5C5C"}}
+  "gulpfile.js": {icon: {glyph: ""}, filename: {foreground: "#CD5C5C"}}
+  "gulpfile.ts": {icon: {glyph: ""}, filename: {foreground: "#CD5C5C"}}
+  "LICENSE": {icon: {glyph: "󰄤"}, filename: {foreground: "#CD5C5C"}}
+  "manifest.mf": {icon: {glyph: ""}, filename: {foreground: "#87CEEB"}}
+  "package-lock.json": {icon: {glyph: ""}, filename: {foreground: "#6B8E23"}}
+  "package.json": {icon: {glyph: ""}, filename: {foreground: "#6B8E23"}}
+  "README": {icon: {glyph: "󰪷"}, filename: {foreground: "#00FFFF"}}
+  "README.md": {icon: {glyph: "󰪷"}, filename: {foreground: "#00FFFF"}}
+  "README.txt": {icon: {glyph: "󰪷"}, filename: {foreground: "#00FFFF"}}
+  "tsconfig.json": {icon: {glyph: ""}, filename: {foreground: "#F4A460"}}
+  "tslint.json": {icon: {glyph: ""}, filename: {foreground: "#F4A460"}}
+  "vue.config.js": {icon: {glyph: "󰡄"}, filename: {foreground: "#778899"}}
+  "vue.config.ts": {icon: {glyph: "󰡄"}, filename: {foreground: "#778899"}}
+  ".aws": {icon: {glyph: ""}, filename: {foreground: "#EC912D"}}
+  ".azure": {icon: {glyph: "󰠅"}, filename: {foreground: "#00BFFF"}}
+  ".cache": {icon: {glyph: "󰃨"}, filename: {foreground: "#87ECAF"}}
+  ".config": {icon: {glyph: ""}, filename: {foreground: "#87CEAF"}}
+  ".docker": {icon: {glyph: ""}, filename: {foreground: "#2391E6"}}
+  ".git": {icon: {glyph: ""}, filename: {foreground: "#FF4500"}}
+  ".github": {icon: {glyph: ""}, filename: {foreground: "#C0C0C0"}}
+  ".kube": {icon: {glyph: "󰠳"}, filename: {foreground: "#326DE6"}}
+  ".vscode": {icon: {glyph: ""}, filename: {foreground: "#87CEFA"}}
+  ".vscode-insiders": {icon: {glyph: ""}, filename: {foreground: "#24BFA5"}}
+  "Applications": {icon: {glyph: "󰀻"}, filename: {foreground: "#FF143C"}}
+  "applications": {icon: {glyph: "󰀻"}, filename: {foreground: "#FF143C"}}
+  "Apps": {icon: {glyph: "󰀻"}, filename: {foreground: "#FF143C"}}
+  "apps": {icon: {glyph: "󰀻"}, filename: {foreground: "#FF143C"}}
+  "Artifacts": {icon: {glyph: ""}, filename: {foreground: "#D49653"}}
+  "artifacts": {icon: {glyph: ""}, filename: {foreground: "#D49653"}}
+  "Benchmark": {icon: {glyph: "󱎫"}, filename: {foreground: "#F08519"}}
+  "benchmark": {icon: {glyph: "󱎫"}, filename: {foreground: "#F08519"}}
+  "Bin": {icon: {glyph: ""}, filename: {foreground: "#00FFF7"}}
+  "bin": {icon: {glyph: ""}, filename: {foreground: "#00FFF7"}}
+  "Contacts": {icon: {glyph: "󰛋"}, filename: {foreground: "#00FBFF"}}
+  "contacts": {icon: {glyph: "󰛋"}, filename: {foreground: "#00FBFF"}}
+  "Demo": {icon: {glyph: ""}, filename: {foreground: "#5F3EC3"}}
+  "demo": {icon: {glyph: ""}, filename: {foreground: "#5F3EC3"}}
+  "Desktop": {icon: {glyph: "󰟀"}, filename: {foreground: "#00FBFF"}}
+  "desktop": {icon: {glyph: "󰟀"}, filename: {foreground: "#00FBFF"}}
+  "Development": {icon: {glyph: ""}, filename: {foreground: "#00FF7F"}}
+  "development": {icon: {glyph: ""}, filename: {foreground: "#00FF7F"}}
+  "docs": {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  "Documents": {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  "documents": {icon: {glyph: ""}, filename: {foreground: "#00BFFF"}}
+  "Downloads": {icon: {glyph: "󰉍"}, filename: {foreground: "#D3D3D3"}}
+  "downloads": {icon: {glyph: "󰉍"}, filename: {foreground: "#D3D3D3"}}
+  "Favorites": {icon: {glyph: "󰚝"}, filename: {foreground: "#F7D72C"}}
+  "favorites": {icon: {glyph: "󰚝"}, filename: {foreground: "#F7D72C"}}
+  "Fonts": {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  "fonts": {icon: {glyph: ""}, filename: {foreground: "#DC143C"}}
+  "Github": {icon: {glyph: ""}, filename: {foreground: "#C0C0C0"}}
+  "github": {icon: {glyph: ""}, filename: {foreground: "#C0C0C0"}}
+  "Images": {icon: {glyph: "󰉏"}, filename: {foreground: "#9ACD32"}}
+  "images": {icon: {glyph: "󰉏"}, filename: {foreground: "#9ACD32"}}
+  "Links": {icon: {glyph: ""}, filename: {foreground: "#FF143C"}}
+  "links": {icon: {glyph: ""}, filename: {foreground: "#FF143C"}}
+  "Media": {icon: {glyph: ""}, filename: {foreground: "#D3D3D3"}}
+  "media": {icon: {glyph: ""}, filename: {foreground: "#D3D3D3"}}
+  "Movies": {icon: {glyph: "󰎁"}, filename: {foreground: "#FFA500"}}
+  "movies": {icon: {glyph: "󰎁"}, filename: {foreground: "#FFA500"}}
+  "Music": {icon: {glyph: "󰌳"}, filename: {foreground: "#DB7093"}}
+  "music": {icon: {glyph: "󰌳"}, filename: {foreground: "#DB7093"}}
+  "node_modules": {icon: {glyph: ""}, filename: {foreground: "#6B8E23"}}
+  "OneDrive": {icon: {glyph: ""}, filename: {foreground: "#D3D3D3"}}
+  "onedrive": {icon: {glyph: ""}, filename: {foreground: "#D3D3D3"}}
+  "Output": {icon: {glyph: ""}, filename: {foreground: "#00FF7F"}}
+  "output": {icon: {glyph: ""}, filename: {foreground: "#00FF7F"}}
+  "Photos": {icon: {glyph: "󰉏"}, filename: {foreground: "#9ACD32"}}
+  "photos": {icon: {glyph: "󰉏"}, filename: {foreground: "#9ACD32"}}
+  "Pictures": {icon: {glyph: "󰉏"}, filename: {foreground: "#9ACD32"}}
+  "pictures": {icon: {glyph: "󰉏"}, filename: {foreground: "#9ACD32"}}
+  "Projects": {icon: {glyph: ""}, filename: {foreground: "#00FF7F"}}
+  "projects": {icon: {glyph: ""}, filename: {foreground: "#00FF7F"}}
+  "Samples": {icon: {glyph: ""}, filename: {foreground: "#5F3EC3"}}
+  "samples": {icon: {glyph: ""}, filename: {foreground: "#5F3EC3"}}
+  "Shortcuts": {icon: {glyph: ""}, filename: {foreground: "#FF143C"}}
+  "shortcuts": {icon: {glyph: ""}, filename: {foreground: "#FF143C"}}
+  "Songs": {icon: {glyph: "󰌳"}, filename: {foreground: "#DB7093"}}
+  "songs": {icon: {glyph: "󰌳"}, filename: {foreground: "#DB7093"}}
+  "Src": {icon: {glyph: ""}, filename: {foreground: "#00FF7F"}}
+  "src": {icon: {glyph: ""}, filename: {foreground: "#00FF7F"}}
+  "Tests": {icon: {glyph: "󰙨"}, filename: {foreground: "#87CEEB"}}
+  "tests": {icon: {glyph: "󰙨"}, filename: {foreground: "#87CEEB"}}
+  "Umbraco": {icon: {glyph: "󰕉"}}
+  "umbraco": {icon: {glyph: "󰕉"}}
+  "Users": {icon: {glyph: ""}, filename: {foreground: "#F4F4F4"}}
+  "users": {icon: {glyph: ""}, filename: {foreground: "#F4F4F4"}}
+  "Videos": {icon: {glyph: "󰎁"}, filename: {foreground: "#FFA500"}}
+  "videos": {icon: {glyph: "󰎁"}, filename: {foreground: "#FFA500"}}
+  "Windows": {icon: {glyph: ""}, filename: {foreground: "#00A8E8"}}
+  "windows": {icon: {glyph: ""}, filename: {foreground: "#00A8E8"}}
+
+filekinds:
+  normal:       {foreground: "#E6D4A3"}
+  directory:    {icon: {glyph: ""}, foreground: "#E6D4A3"}
+  symlink:      {foreground: "#E6D4A3"}
+  pipe:         {foreground: "#E6D4A3"}
+  block_device: {foreground: "#E6D4A3"}
+  char_device:  {foreground: "#E6D4A3"}
+  socket:       {foreground: "#E6D4A3"}
+  special:      {foreground: "#E6D4A3"}
+  executable:   {foreground: "#E6D4A3"}
+  mount_point:  {foreground: "#E6D4A3"}
+
+perms:
+  user_read:     {foreground: "#E6D4A3"}
+  user_write:    {foreground: "#E6D4A3"}
+  user_execute_file:  {foreground: "#E6D4A3"}
+  user_execute_other: {foreground: "#E6D4A3"}
+  group_read:    {foreground: "#E6D4A3"}
+  group_write:   {foreground: "#E6D4A3"}
+  group_execute: {foreground: "#E6D4A3"}
+  other_read:    {foreground: "#E6D4A3"}
+  other_write:   {foreground: "#E6D4A3"}
+  other_execute: {foreground: "#E6D4A3"}
+  special_user_file:  {foreground: "#E6D4A3"}
+  special_other:      {foreground: "#E6D4A3"}
+  attribute:     {foreground: "#E6D4A3"}
+
+size:
+  number_byte:     {foreground: "#1E90FF"}
+  number_kilo:     {foreground: "#1E90FF"}
+  number_mega:     {foreground: "#1E90FF"}
+  number_giga:     {foreground: "#1E90FF"}
+  number_huge:     {foreground: "#1E90FF"}
+  unit_byte:       {foreground: "#1E90FF"}
+  unit_kilo:       {foreground: "#1E90FF"}
+  unit_mega:       {foreground: "#1E90FF"}
+  unit_giga:       {foreground: "#1E90FF"}
+  unit_huge:       {foreground: "#1E90FF"}
+
+date:
+  {foreground: "#F4A460"}
+
